@@ -1,0 +1,2 @@
+# sikayetvarWebMining
+şikayetvardan veri çektim.
